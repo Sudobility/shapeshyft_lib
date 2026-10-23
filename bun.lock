@@ -6,9 +6,9 @@
       "name": "@sudobility/shapeshyft_lib",
       "devDependencies": {
         "@eslint/js": "^9.39.2",
-        "@sudobility/shapeshyft_client": "^0.0.106",
-        "@sudobility/shapeshyft_types": "^1.1.11",
-        "@sudobility/types": "^1.9.68",
+        "@sudobility/shapeshyft_client": "^0.0.109",
+        "@sudobility/shapeshyft_types": "^1.1.14",
+        "@sudobility/types": "^1.9.74",
         "@tanstack/react-query": "^5.90.5",
         "@types/node": "^24.9.1",
         "@types/react": "^19.2.2",
@@ -25,9 +25,9 @@
         "zustand": "^5.0.8",
       },
       "peerDependencies": {
-        "@sudobility/shapeshyft_client": "^0.0.106",
-        "@sudobility/shapeshyft_types": "^1.1.11",
-        "@sudobility/types": "^1.9.68",
+        "@sudobility/shapeshyft_client": "^0.0.109",
+        "@sudobility/shapeshyft_types": "^1.1.14",
+        "@sudobility/types": "^1.9.74",
         "@tanstack/react-query": ">=5.0.0",
         "react": ">=18.0.0",
         "zustand": ">=5.0.0",
@@ -203,13 +203,13 @@
 
     "@standard-schema/spec": ["@standard-schema/spec@1.1.0", "", {}, "sha512-l2aFy5jALhniG5HgqrD6jXLi/rUWrKvqN/qJx6yoJsgKhblVd+iqqU4RCXavm/jPityDo5TCvKMnpjKnOriy0w=="],
 
-    "@sudobility/shapeshyft_client": ["@sudobility/shapeshyft_client@0.0.106", "", { "peerDependencies": { "@sudobility/shapeshyft_types": "^1.1.11", "@sudobility/types": "^1.9.68", "@tanstack/react-query": ">=5.0.0", "react": ">=18.0.0" } }, "sha512-nhvtZAiOa6o4zYe4VS2LSBmJiFPDLwfboWTkebun/2f7XKJdaLjS4uaEGAXy77tF8c7dI2zFRtx1sAtG4cy6Ew=="],
+    "@sudobility/shapeshyft_client": ["@sudobility/shapeshyft_client@0.0.109", "https://npm.pkg.github.com/download/@sudobility/shapeshyft_client/0.0.109/097b4c48f62d1713e28bd7696e690570ef177ac1", { "peerDependencies": { "@sudobility/shapeshyft_types": "^1.1.14", "@sudobility/types": "^1.9.74", "@tanstack/react-query": ">=5.0.0", "react": ">=18.0.0" } }, "sha512-sdSf3jAwbuXElXiPCVg3qSjM7Gnz2hwlg5zTpkc6lWeBRsWG+WJ4jeyWTLEV2vI8SB50YeYW/njLJ3fasD7Opg=="],
 
-    "@sudobility/shapeshyft_engine": ["@sudobility/shapeshyft_engine@1.0.11", "", { "dependencies": { "@sudobility/types": "^1.9.68" }, "peerDependencies": { "@anthropic-ai/sdk": "^0.39.0", "@google/generative-ai": "^0.21.0", "groq-sdk": "^0.37.0", "openai": "^4.77.0", "sharp": "^0.35.4" }, "optionalPeers": ["@anthropic-ai/sdk", "@google/generative-ai", "groq-sdk", "openai", "sharp"] }, "sha512-APBo9RfIxUPSI1c/E4rVWAzwMrKjt2tXiK1faOhfYf519cU3p7neKDY+ToM06+ezo0vMfzRoWlrNT660hxepbg=="],
+    "@sudobility/shapeshyft_engine": ["@sudobility/shapeshyft_engine@1.0.11", "https://npm.pkg.github.com/@sudobility/shapeshyft_engine/-/shapeshyft_engine-1.0.11.tgz", { "dependencies": { "@sudobility/types": "^1.9.68" }, "peerDependencies": { "@anthropic-ai/sdk": "^0.39.0", "@google/generative-ai": "^0.21.0", "groq-sdk": "^0.37.0", "openai": "^4.77.0", "sharp": "^0.35.4" }, "optionalPeers": ["@anthropic-ai/sdk", "@google/generative-ai", "groq-sdk", "openai", "sharp"] }, "sha512-APBo9RfIxUPSI1c/E4rVWAzwMrKjt2tXiK1faOhfYf519cU3p7neKDY+ToM06+ezo0vMfzRoWlrNT660hxepbg=="],
 
-    "@sudobility/shapeshyft_types": ["@sudobility/shapeshyft_types@1.1.11", "", { "dependencies": { "@sudobility/shapeshyft_engine": "^1.0.11" }, "peerDependencies": { "@sudobility/types": "^1.9.68" } }, "sha512-IYHAwPruik7aKiQ4iwvVvRUKZlnuhrUX2pklfBe1rEdH3oTswWK2dAStanYcF9cnAzDrzPfGkJuN5ruSXRpLzg=="],
+    "@sudobility/shapeshyft_types": ["@sudobility/shapeshyft_types@1.1.14", "https://npm.pkg.github.com/download/@sudobility/shapeshyft_types/1.1.14/8fdd30a630decdbd5308a71cdc98147de468d677", { "peerDependencies": { "@sudobility/shapeshyft_engine": "^1.0.12", "@sudobility/types": "^1.9.74" } }, "sha512-jIt7dhkxeFvM+ou8MhfejHUfAMMv6aw3aiTYerl9EE89o5nAGoyq3yuKCyzZv1r/CKGpZ+6DWBRHzKb4FPGnvQ=="],
 
-    "@sudobility/types": ["@sudobility/types@1.9.68", "", {}, "sha512-4LL5+UfcqQcc0PKKR/z/PqS6j9DQPVkkjL+3oOW+Bwx0TAu1SVKAlPhlt/9ruNMW+abcHuZoFvbOVD5gdYBSGw=="],
+    "@sudobility/types": ["@sudobility/types@1.9.74", "https://npm.pkg.github.com/download/@sudobility/types/1.9.74/f9ad864ba5d8d1097e7e48378ebee8aa7e129e88", {}, "sha512-jgt0F1r71qjFNiRNn/1YlL4JU65sjnzYd8Sfi+Y9z62Lu9VhIXeqWAH12u7/hmGPZqG3nxzn0V+s3sFkB1qWuQ=="],
 
     "@tanstack/query-core": ["@tanstack/query-core@5.90.12", "", {}, "sha512-T1/8t5DhV/SisWjDnaiU2drl6ySvsHj1bHBCWNXd+/T+Hh1cf6JodyEYMd5sgwm+b/mETT4EV3H+zCVczCU5hg=="],
 
