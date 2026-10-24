@@ -6,8 +6,8 @@
       "name": "@sudobility/shapeshyft_lib",
       "devDependencies": {
         "@eslint/js": "~9.39.5",
-        "@sudobility/shapeshyft_client": "^0.0.113",
-        "@sudobility/shapeshyft_types": "^1.1.18",
+        "@sudobility/shapeshyft_client": "^0.0.114",
+        "@sudobility/shapeshyft_types": "^1.1.19",
         "@sudobility/types": "^1.9.76",
         "@tanstack/react-query": "~5.104.5",
         "@types/node": "~24.19.2",
@@ -25,8 +25,8 @@
         "zustand": "~5.0.16",
       },
       "peerDependencies": {
-        "@sudobility/shapeshyft_client": "^0.0.113",
-        "@sudobility/shapeshyft_types": "^1.1.18",
+        "@sudobility/shapeshyft_client": "^0.0.114",
+        "@sudobility/shapeshyft_types": "^1.1.19",
         "@sudobility/types": "^1.9.76",
         "@tanstack/react-query": ">=5.0.0",
         "react": ">=18.0.0",
@@ -205,11 +205,11 @@
 
     "@standard-schema/spec": ["@standard-schema/spec@1.1.0", "", {}, "sha512-l2aFy5jALhniG5HgqrD6jXLi/rUWrKvqN/qJx6yoJsgKhblVd+iqqU4RCXavm/jPityDo5TCvKMnpjKnOriy0w=="],
 
-    "@sudobility/shapeshyft_client": ["@sudobility/shapeshyft_client@0.0.113", "https://npm.pkg.github.com/download/@sudobility/shapeshyft_client/0.0.113/b5e6b3d111d02092c8ee42a6c4e9fcb309183ed2", { "peerDependencies": { "@sudobility/shapeshyft_types": "^1.1.18", "@sudobility/types": "^1.9.76", "@tanstack/react-query": ">=5.0.0", "react": ">=18.0.0" } }, "sha512-9Adbz0oeOUfDOacKE0KSp2jCbO/PF/uHoUGh30P7taM9L8IvkcoA6d7NmScQB2k8ArVIiB809uDhHqSsWd3/lQ=="],
+    "@sudobility/shapeshyft_client": ["@sudobility/shapeshyft_client@0.0.114", "https://npm.pkg.github.com/download/@sudobility/shapeshyft_client/0.0.114/1574a6923998a377cd68ffa5d471926f34b62bfc", { "peerDependencies": { "@sudobility/shapeshyft_types": "^1.1.19", "@sudobility/types": "^1.9.76", "@tanstack/react-query": ">=5.0.0", "react": ">=18.0.0" } }, "sha512-eux69iM3VOX7KVlUlMkuoXckvE0ebExto1MGTkfuRakPxieCNHfW7B8B318rUPVibcwm8m0CBxZ5q31OycuzUw=="],
 
     "@sudobility/shapeshyft_engine": ["@sudobility/shapeshyft_engine@1.0.12", "https://npm.pkg.github.com/download/@sudobility/shapeshyft_engine/1.0.12/eb2fc50373abd3808ed16f948001f6e091ddea52", { "dependencies": { "@sudobility/types": "^1.9.72" }, "peerDependencies": { "@anthropic-ai/sdk": "^0.39.0", "@google/generative-ai": "^0.21.0", "groq-sdk": "^0.37.0", "openai": "^4.77.0", "sharp": "^0.35.4" } }, "sha512-gNVH89kzF7eVTwW+nXNKh1+eCEyjv3yluiiYUAw+xJfYsqbcKliMOFCT2Bs8RGczFC1juUCOscwbFlhCSlhsHA=="],
 
-    "@sudobility/shapeshyft_types": ["@sudobility/shapeshyft_types@1.1.18", "https://npm.pkg.github.com/download/@sudobility/shapeshyft_types/1.1.18/8a735f4eb7185034b1363d80eff1860519d3311e", { "peerDependencies": { "@sudobility/shapeshyft_engine": "^1.0.12", "@sudobility/types": "^1.9.76" } }, "sha512-nkiit3gTae+NaaQ7kxXO16Csv6M8nw1+za/A02qpqLyRriayZLcVh90HSvaNlERVDxqAT6uY+RzfempebBeMrQ=="],
+    "@sudobility/shapeshyft_types": ["@sudobility/shapeshyft_types@1.1.19", "https://npm.pkg.github.com/download/@sudobility/shapeshyft_types/1.1.19/39eb2948b8356a2bc0d0a26a625649680092c474", { "peerDependencies": { "@sudobility/shapeshyft_engine": "^1.0.13", "@sudobility/types": "^1.9.76" } }, "sha512-bwwIKpVfZU5IrldaIXf0+/aM3VHpchi6XJfAerYGg6OBMmacIZI2I/PM9X7R2Aw3x/uAz70GgTtKvRoxisnEoQ=="],
 
     "@sudobility/types": ["@sudobility/types@1.9.76", "https://npm.pkg.github.com/download/@sudobility/types/1.9.76/71635156f72fd9461107d5f147b3dc1c49f863d0", {}, "sha512-b7maZHR5wM84VlQ+l9R+2guzSOrExog6OUNy1oCe7h0abW13syycmnLQL0g+qql0aQ84qTB4A0mJelhY3Vef4Q=="],
 
