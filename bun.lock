@@ -6,7 +6,7 @@
       "name": "@sudobility/shapeshyft_lib",
       "devDependencies": {
         "@eslint/js": "~10.0.1",
-        "@sudobility/shapeshyft_client": "^0.0.120",
+        "@sudobility/shapeshyft_client": "^0.0.121",
         "@sudobility/shapeshyft_types": "^1.1.21",
         "@sudobility/types": "^1.9.78",
         "@tanstack/react-query": "~5.104.5",
@@ -25,7 +25,7 @@
         "zustand": "~5.0.16",
       },
       "peerDependencies": {
-        "@sudobility/shapeshyft_client": "^0.0.120",
+        "@sudobility/shapeshyft_client": "^0.0.121",
         "@sudobility/shapeshyft_types": "^1.1.21",
         "@sudobility/types": "^1.9.78",
         "@tanstack/react-query": ">=5.0.0",
@@ -211,7 +211,7 @@
 
     "@standard-schema/spec": ["@standard-schema/spec@1.1.0", "", {}, "sha512-l2aFy5jALhniG5HgqrD6jXLi/rUWrKvqN/qJx6yoJsgKhblVd+iqqU4RCXavm/jPityDo5TCvKMnpjKnOriy0w=="],
 
-    "@sudobility/shapeshyft_client": ["@sudobility/shapeshyft_client@0.0.120", "https://npm.pkg.github.com/download/@sudobility/shapeshyft_client/0.0.120/f3d66f7637aecc7d48647c33198a5f611152c83e", { "peerDependencies": { "@sudobility/shapeshyft_types": "^1.1.21", "@sudobility/types": "^1.9.78", "@tanstack/react-query": ">=5.0.0", "react": ">=18.0.0" } }, "sha512-dRE2fkOu85nwdHFSHl1UAkWdU8DTs+Mi14QrRNAV1cLQMd58Q457Cc91pZa6dob1Tfp7scxvwmi/nK5FiIpEHA=="],
+    "@sudobility/shapeshyft_client": ["@sudobility/shapeshyft_client@0.0.121", "https://npm.pkg.github.com/download/@sudobility/shapeshyft_client/0.0.121/a51d82b1f9dbc70e58ca8b069ae53f9be4351c08", { "peerDependencies": { "@sudobility/shapeshyft_types": "^1.1.21", "@sudobility/types": "^1.9.78", "@tanstack/react-query": ">=5.0.0", "react": ">=18.0.0" } }, "sha512-RUAaCZybPqUCMId5AjFjTHGHb/YzVqRZgdvfymgWsOl8Ba40Lcwpl3IVcxC1ucnVRNMcEsnpsvjMteQc4ljkvA=="],
 
     "@sudobility/shapeshyft_engine": ["@sudobility/shapeshyft_engine@1.0.12", "https://npm.pkg.github.com/download/@sudobility/shapeshyft_engine/1.0.12/eb2fc50373abd3808ed16f948001f6e091ddea52", { "dependencies": { "@sudobility/types": "^1.9.72" }, "peerDependencies": { "@anthropic-ai/sdk": "^0.39.0", "@google/generative-ai": "^0.21.0", "groq-sdk": "^0.37.0", "openai": "^4.77.0", "sharp": "^0.35.4" } }, "sha512-gNVH89kzF7eVTwW+nXNKh1+eCEyjv3yluiiYUAw+xJfYsqbcKliMOFCT2Bs8RGczFC1juUCOscwbFlhCSlhsHA=="],
 
