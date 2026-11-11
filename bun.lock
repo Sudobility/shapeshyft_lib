@@ -6,9 +6,9 @@
       "name": "@sudobility/shapeshyft_lib",
       "devDependencies": {
         "@eslint/js": "~10.0.1",
-        "@sudobility/shapeshyft_client": "^0.0.122",
-        "@sudobility/shapeshyft_types": "^1.1.23",
-        "@sudobility/types": "^1.9.79",
+        "@sudobility/shapeshyft_client": "^0.0.123",
+        "@sudobility/shapeshyft_types": "^1.1.25",
+        "@sudobility/types": "^1.10.1",
         "@tanstack/react-query": "~5.104.5",
         "@types/node": "~26.6.5",
         "@types/react": "~19.3.0",
@@ -25,9 +25,9 @@
         "zustand": "~5.0.16",
       },
       "peerDependencies": {
-        "@sudobility/shapeshyft_client": "^0.0.122",
-        "@sudobility/shapeshyft_types": "^1.1.23",
-        "@sudobility/types": "^1.9.79",
+        "@sudobility/shapeshyft_client": "^0.0.123",
+        "@sudobility/shapeshyft_types": "^1.1.25",
+        "@sudobility/types": "^1.10.1",
         "@tanstack/react-query": ">=5.0.0",
         "react": ">=18.0.0",
         "zustand": ">=5.0.0",
@@ -211,13 +211,13 @@
 
     "@standard-schema/spec": ["@standard-schema/spec@1.1.0", "", {}, "sha512-l2aFy5jALhniG5HgqrD6jXLi/rUWrKvqN/qJx6yoJsgKhblVd+iqqU4RCXavm/jPityDo5TCvKMnpjKnOriy0w=="],
 
-    "@sudobility/shapeshyft_client": ["@sudobility/shapeshyft_client@0.0.122", "https://npm.pkg.github.com/download/@sudobility/shapeshyft_client/0.0.122/a3c88070b9ad89478cf61f403808d52d8c861478", { "peerDependencies": { "@sudobility/shapeshyft_types": "^1.1.23", "@sudobility/types": "^1.9.79", "@tanstack/react-query": ">=5.0.0", "react": ">=18.0.0" } }, "sha512-0ecW7aPd39Wuxq/v6nCH1uC+3EswXtCHQS8/biXMYR40tR4GorRR/UV1JWHO033pJDH9xD/9pG/z3cIggZTUxA=="],
+    "@sudobility/shapeshyft_client": ["@sudobility/shapeshyft_client@0.0.123", "https://npm.pkg.github.com/download/@sudobility/shapeshyft_client/0.0.123/55d680502233e2f1f850b5aa850df596c44c5de1", { "peerDependencies": { "@sudobility/shapeshyft_types": "^1.1.25", "@sudobility/types": "^1.10.1", "@tanstack/react-query": ">=5.0.0", "react": ">=18.0.0" } }, "sha512-Gs7gWm/dq7CXejz5BhzgsfpPLNiHSL31f7q3ehnKx/yJRTveMeNRj6WXbu/1kPbRBfEBl+6z41UJwZo6zomwZw=="],
 
     "@sudobility/shapeshyft_engine": ["@sudobility/shapeshyft_engine@1.0.12", "https://npm.pkg.github.com/download/@sudobility/shapeshyft_engine/1.0.12/eb2fc50373abd3808ed16f948001f6e091ddea52", { "dependencies": { "@sudobility/types": "^1.9.72" }, "peerDependencies": { "@anthropic-ai/sdk": "^0.39.0", "@google/generative-ai": "^0.21.0", "groq-sdk": "^0.37.0", "openai": "^4.77.0", "sharp": "^0.35.4" } }, "sha512-gNVH89kzF7eVTwW+nXNKh1+eCEyjv3yluiiYUAw+xJfYsqbcKliMOFCT2Bs8RGczFC1juUCOscwbFlhCSlhsHA=="],
 
-    "@sudobility/shapeshyft_types": ["@sudobility/shapeshyft_types@1.1.23", "https://npm.pkg.github.com/download/@sudobility/shapeshyft_types/1.1.23/20050fdeedc20085751d04882fd91eac3219fbdc", { "peerDependencies": { "@sudobility/shapeshyft_engine": "^1.0.15", "@sudobility/types": "^1.9.79" } }, "sha512-ywQ4vejb6E+ApWHMtDO81sQ8zmYwyyP2Oil9ARxfPfBfwPxawW8vNC6H0hhl+4rwiwaGL1UNege9/AbiO0vFDg=="],
+    "@sudobility/shapeshyft_types": ["@sudobility/shapeshyft_types@1.1.25", "https://npm.pkg.github.com/download/@sudobility/shapeshyft_types/1.1.25/a024705742ff73b42ad6385ed93c93d4c299ecab", { "peerDependencies": { "@sudobility/shapeshyft_engine": "^1.0.16", "@sudobility/types": "^1.10.1" } }, "sha512-5B4is7Q7RRnfndqmG/Mnnbh2q7v8Vvyojd66zamUK09Ib+3fsNRqapG2Y1PYabQPLufR+zQ8T1Ab2ycYQhBuww=="],
 
-    "@sudobility/types": ["@sudobility/types@1.9.79", "https://npm.pkg.github.com/download/@sudobility/types/1.9.79/59975e39d6ab7e215418a489ef3cfe214b7521f4", {}, "sha512-rRtDT++fVy+I1m6E31fq752lxCQytFzwfqpJe5wDMPLcC1rJOBa7v+4+5e3cmX8VV1CsuLg8PTLMFe6A7AELRQ=="],
+    "@sudobility/types": ["@sudobility/types@1.10.1", "https://npm.pkg.github.com/download/@sudobility/types/1.10.1/8e353f55822e0bc3fa9555dfe3aee593e140c012", {}, "sha512-LmJyjDDY5rHDET1wstkT0i59SSOrOXijL2iqrgfcK6VHtKcBEw7FFpbw4CyHn+dhR9kqkYpEydSfypoqw7crMg=="],
 
     "@tanstack/query-core": ["@tanstack/query-core@5.104.5", "", {}, "sha512-Q94gI8Opd+CbdVNOdj8ZCyV8WqLYitrDq1t96Xc8WZT6lY0r5iRnJLXYDxMex7EEf2v+mXvn4FcjaBKSxXZQ9A=="],
 
